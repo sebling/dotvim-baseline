@@ -25,3 +25,6 @@
 [submodule "bundle/vim-addon-mw-utils"]
 	path = bundle/vim-addon-mw-utils
 	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/tlib-vim"]
+	path = bundle/tlib-vim
+	url = https://github.com/tomtom/tlib_vim.git
