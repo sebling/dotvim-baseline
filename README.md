@@ -1,3 +1,5 @@
+# Archived - This is an old project, it's bad, stay away from it - use the vim-config project instead
+
 Installation:
 
     git clone git://github.com/sebling/dotvim-baseline.git ~/.vim
